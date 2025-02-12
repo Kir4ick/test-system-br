@@ -42,5 +42,5 @@ docker exec -it application php artisan db:seed
 ```
 
 
-На главной странице выбор отеля происходит по ключу hotel_id
+На главной странице выбор отеля происходит по GET параметру hotel_id
 ---
